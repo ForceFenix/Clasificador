@@ -1,0 +1,24 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416538     Recibido: 16/10/2019 15:27:01
+GFH:MOI de GFH:160901 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:IFOR
+(TO) -> SANI 
+(INFO) -> DEBI DEDU DPER 
+BT
+
+REF SU MOI GFH 111110/19 X MOCXMU DNI 31.538.113 MARIO NAZARENO
+CACERE X NOTIFICADO MEDIANTE NO-2019-93321902-APN-IFOR#PNA
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

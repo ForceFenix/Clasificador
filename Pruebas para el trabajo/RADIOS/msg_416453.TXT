@@ -1,0 +1,41 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416453     Recibido: 16/10/2019 10:21:06
+GFH:MOI de GFH:160831 por usuario:AAD(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:FORM
+(TO) -> DPER 
+(INFO) -> BARR DAFI DIOP DNOR ISCE 
+BT
+
+PREFECTURA NAVAL ARGENTINA
+AUTORIDAD MARITIMA
+SECCION COMUNICACIONES E INFORMATICA
+OFICINA            :
+PRECEDENCIA: "RR"                          MENSAJE  OFICIAL  INTERNO 
+          NR:  638
+PROMOTOR     : FORM.-                                                
+                              GFH:160831.-
+EJECUTIVO      : DPER	
+INFORMATIVO  : BARR DAFI DIOP DNOR ISCE
+
+BT
+3700 X FH 160820 X APCGOF DNI: 31.622.713 CARLOS ANTONIO MORENO pdf
+BT
+
+
+
+3700  :  Fecha hora que se indica X presentóse ésta,  personal que se
+ indica.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

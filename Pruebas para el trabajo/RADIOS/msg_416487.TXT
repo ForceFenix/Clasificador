@@ -1,0 +1,26 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416487     Recibido: 16/10/2019 11:51:29
+GFH:MOI de GFH:160535 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:IFOR
+(TO) -> SANI 
+(INFO) -> DEBI DPER SERS 
+BT
+
+FM: TONI
+3585 X 0430 X ESA X PARTICULAR X CICGNAEV DNI 33.666.570 CARLOS 
+JAVIER ROMERO CMM CICGMA DNI 35.288.111 RODRIGO EMANUEL GAYOSO X 
+APTITUD FISICA.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,38 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416499     Recibido: 16/10/2019 12:59:57
+GFH:MOI de GFH:161212 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:LPLA
+(TO) -> SANA 
+(INFO) -> DPER PZAP PZRP SANI 
+BT
+
+FM  SANI
+1774 X MOI GFH: 151240 FM: TNGO X 2350 X CI  DNI 29728702 ROBERTO 
+ALEJANDRO BARBARO X S/S DEL 02 OCT AL 02 ENE X 1950 X NOTIFICACION.-
+
+
+
+
+
+
+
+
+
+
+
+
+1774: RETRANSMITO MENSAJE NAVAL QSI X DEL PROMOTOR QSI.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

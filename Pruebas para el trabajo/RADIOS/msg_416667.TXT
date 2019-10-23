@@ -1,0 +1,37 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416667     Recibido: 17/10/2019 05:30:23
+GFH:MOI de GFH:161954 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:BARR
+(TO) -> DEBI DIOP DMAT DPER TAGE 
+BT
+
+PREFECTURA NAVAL ARGENTINA
+SECCION INFORMATICA Y COMUNICACIONES
+Nº 438
+OFICINA: (SECCION PERSONAL)
+RR       161954       OCT        19
+FM:      BARR
+TO:      DPER- DEBI- DMAT- DIOP- TAGE
+INFO:
+
+BT
+
+CONTINUANDO MI GFH 111358 X DILAN MATEO ACOSTA HIJO CSCGNA (1760) DNI
+ Nº 37.069.118 ROLANDO MARTIN ACOSTA CMM CONTINUA EVOLUCION X 
+PERSONAL AREA BIENESTAR BRINDA APOYO Y CONTENCION pdf
+
+BT
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

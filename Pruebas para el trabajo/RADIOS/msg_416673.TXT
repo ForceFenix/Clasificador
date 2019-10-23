@@ -1,0 +1,33 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416673     Recibido: 17/10/2019 05:30:24
+GFH:MOI de GFH:162142 por usuario:AAD(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:FORM
+(TO) -> DEBI DNOR DPER PZPP SANI 
+BT
+
+Nº 671
+BT
+CONTIENE IF-2019-93646903-APN-FORM#PNA X ANEXADO pdf
+BT
+
+
+
+
+
+
+
+REF: FALLECIMIENTO HIJO CI MENDIOLA PABLO.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

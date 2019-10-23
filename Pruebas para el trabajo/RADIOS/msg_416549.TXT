@@ -1,0 +1,25 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416549     Recibido: 16/10/2019 15:42:19
+GFH:MOI de GFH:161530 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:LARG
+(TO) -> PZMS 
+(INFO) -> AREX DEBI DPER DSUR SANI 
+BT
+
+3700 X 161525 X APCGSG (Legajo 8174) DNI Nº 20.884.310 CARLOS RUBEN 
+BONFANTI cmm ATCGNA (Legajo 12838) DNI Nº 29.986.425 HECTOR NADIR 
+GOMES.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,28 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416630     Recibido: 16/10/2019 18:21:31
+GFH:MOI de GFH:161120 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> DPSN 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+2350 X AT DNI 29411633 ERIKA SOLEDAD ESPINOZA X S/S DEL 17/OCT AL 
+26/OCT INC X APTO FAZ ADMINISTRATIVA NO APTO FAZ POLICIAL X 2340 ESTA
+ 22/OCTcmm 26/OCT08:00 HS X SALUD MENTAL (LIC BONELLO) X 1950 X 
+NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

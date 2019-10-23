@@ -1,0 +1,31 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416501     Recibido: 16/10/2019 13:14:42
+GFH:MOI de GFH:160914 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:RHON
+(TO) -> SANI 
+(INFO) -> DEBI DPER DPRO OSES 
+BT
+
+BT
+2391 X 091255 cmm 110815.-
+BT
+
+091255: PRESENTACION CS.DNI.33.937.088 MARIA CELESTE ESTRIGARRIBIA X 
+SANI DIA 23-OCT-19 09:00 HS SALUD MENTAL (LIC DOLAGARTZ )
+
+110815: PRESENTACION CS.DNI.33.937.088 MARIA CELESTE ESTRIGARRIBIA X 
+SANI DIA 11-NOV-19 14:00 TRAUMATOLOGIA.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

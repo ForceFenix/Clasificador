@@ -1,0 +1,27 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416638     Recibido: 16/10/2019 18:28:42
+GFH:MOI de GFH:161140 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> DPSN 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+2350 X CI DNI 35697135 MIRNA ROSALIA MIRANDA X T/A DEL 16/OCTAL 
+20/NOV INC X APTO FAZ ADMINISTRATIVA NO APTO FAZ POLICIAL X 2340 ESTA
+ 20/NOV10:30 HS SALUD MENTAL (LIC BUSSO) X 1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

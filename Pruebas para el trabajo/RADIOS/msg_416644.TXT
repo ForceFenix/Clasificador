@@ -1,0 +1,27 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416644     Recibido: 16/10/2019 18:37:23
+GFH:MOI de GFH:161150 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> AGAL 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+REFERENTE SU MOI GFH: 151140 X
+2340 X MO DNI 40984058 FERNANDO VERDUN X ESTA 22/OCT 09:00 HS X SALUD
+ MENTAL (LIC BUSSO) X 1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

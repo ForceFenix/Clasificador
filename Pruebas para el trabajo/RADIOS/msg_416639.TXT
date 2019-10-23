@@ -1,0 +1,28 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416639     Recibido: 16/10/2019 18:29:45
+GFH:MOI de GFH:161145 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> RECA 
+(INFO) -> DEBI DPER SBGC 
+BT
+
+FM SANI
+
+2350 X AT DNI 30754237 CRISTIAN WALKOSKI X S/S DEL 24/OCT AL 
+25/NOVINC X APTO FAZ ADMINISTRATIVA NO APTO FAZ POLICIAL X 2340 X 
+ESTA 25/NOV 08.00 HS X JORM SALUD MENTAL X MUNIDO CERTIFICADO 
+PROFESIONAL TRATANTE X 1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

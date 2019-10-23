@@ -1,0 +1,27 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416621     Recibido: 16/10/2019 18:07:48
+GFH:MOI de GFH:161410 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> IFOR 
+(INFO) -> DEBI DEDU DPER 
+BT
+
+FM SANI
+
+2350 X AI DNI 18.150.191 RUBEN ANIBAL GONZALEZ X S/S DEL 17/OCT AL 
+15/ENE/20 X 2340 X ESTA 15/ENE/20 DE 0900 A 11.00 HR (JORM 
+CARDIOLOGIA) MUNIDO DE CERTIFICADOS MEDICOS Y ESTUDIOS REALIZADO.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

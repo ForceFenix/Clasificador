@@ -1,0 +1,32 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416497     Recibido: 16/10/2019 12:31:09
+GFH:MOI de GFH:161223 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:DSUR
+(TO) -> DPER 
+BT
+
+PREFECTURA NAVAL ARGENTINA
+Autoridad Marítima
+
+N°21
+
+BT
+2391 X MOI GFH 301615 SEP/19 X ASCGNAAR 7603 27558305 SAMANIEGO, 
+LISANDRO ARIEL CMM CICGSG 23178 35207623 MELILLAN, CRISTIAN EZEQUIEL 
+ CMM CICGSG 23183 33368809 SANGER, EDGAR JONATHAN CMM BAJO ACTA FIRMA
+ CONJUNTA IF-2019-93424583-APN-DSUR#PNA.
+BT
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

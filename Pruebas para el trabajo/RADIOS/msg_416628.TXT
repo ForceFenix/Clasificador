@@ -1,0 +1,28 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416628     Recibido: 16/10/2019 18:19:29
+GFH:MOI de GFH:161110 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> AGGU 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+REFERENTE SU MOI GFH: 100913 X NUEVA FECHA CITACION
+2340 X CI DNI 31173230 NELSON DANIEL VILLAGRAN X ESTA 31/OCT  08.00 
+HS SALUD MENTAL (LIC DE LA CRUZ) X MUNIDO CERTIFICADO PROFESIONAL 
+TRATANTE X 1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

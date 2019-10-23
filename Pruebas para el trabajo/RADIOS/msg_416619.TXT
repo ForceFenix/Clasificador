@@ -1,0 +1,26 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416619     Recibido: 16/10/2019 18:00:42
+GFH:MOI de GFH:161400 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> PZAP 
+(INFO) -> DEBI DPER MANI 
+BT
+
+FM SANI
+
+2361 X AI DNI 18.302.966 JOSE ANTONIO OVIEDO X PARTIR DEL 30/SEP X 
+1950 X SITUACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

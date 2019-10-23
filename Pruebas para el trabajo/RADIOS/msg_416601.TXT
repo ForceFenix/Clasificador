@@ -1,0 +1,32 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416601     Recibido: 16/10/2019 17:02:55
+GFH:MOI de GFH:161046 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:PZMS
+(TO) -> LARG SANI 
+(INFO) -> AREX DEBI DIOP DPER DSUR 
+BT
+
+R   161046/OCT/19
+FM: PZMS
+TO: SANI -LARG
+INF: DIOP- DPER- DEBI-DSUR-AREX
+BT:
+DE SECCION SANIDAD
+2353 X SOLICITO TURNO JORM SALUD MENTAL  X  ATCGNA DNI 29986425 GOMES
+ HECTOR NADIR X CONTINUA MISMA SITUACION DE SERVICO HASTA SER VISTO 
+JORM.-
+BT:
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,26 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416648     Recibido: 16/10/2019 18:47:41
+GFH:MOI de GFH:161205 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> LARG 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+REF AT DNI 29986425 GOMEZ HECTOR X 2340 X ESTA 04/NOV 08:00 HS X 
+SALUD MENTAL-JORM X 1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

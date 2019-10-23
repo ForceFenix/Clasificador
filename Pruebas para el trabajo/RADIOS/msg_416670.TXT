@@ -1,0 +1,38 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416670     Recibido: 17/10/2019 05:30:24
+GFH:MOI de GFH:161503 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:TNGO
+(TO) -> DEDU 
+(INFO) -> BBLA CRIV DIOP DPER LIBR MPLA POSA PZAP PZAU PZMN PZMS SANT TNGO 
+BT
+
+GFH: 161503
+
+FM: ENSS
+                                                                     
+                     		
+TO: DEDU
+
+INFO: DIOP- DPER- PZMN- PZMS- PZAP- PZAU- MPLA BBLA CRIV POSA SANT 
+LIBR TNGO
+
+ZEN/SERS- GRUS
+
+
+ FH 161430 X FINALIZO CURSO “ACTUALIZACION Y RECALIFICACION PARA 
+NADADORES DE RESCATE” X PERSONAL SE REPLIEGA A SUS RESPECTIVOS 
+DESTINOS X POR CCOO ELEVO RESULTADOS pdf
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

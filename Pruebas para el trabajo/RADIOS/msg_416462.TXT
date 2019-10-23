@@ -1,0 +1,33 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416462     Recibido: 16/10/2019 10:44:59
+GFH:MOI de GFH:161037 por usuario:RAF(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:IGUA
+(TO) -> DPER 
+(INFO) -> DNOR 
+BT
+
+SOLICITO LIQUIDACION COMPENSACION CAMBIO DESTINO CS MAURICIO NICOLAS 
+NUÑEZ X DNI 38.776.336 X OSSI-IGUA X 1722 KMS X NIL X NO INCLUYE 
+VEHICULO PARTICULAR X TERRESTRE X ACUSE RECIBO.
+BT
+
+
+
+
+
+
+RFTE. COMPENSACION CAMBIO DE DESTINO PERSONAL CIVF.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

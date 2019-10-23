@@ -1,0 +1,31 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416524     Recibido: 16/10/2019 14:07:26
+GFH:MOI de GFH:161015 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:DPRO
+(TO) -> DPER 
+BT
+
+FM:   CS32
+TO:    DPER
+INFO: DPRO
+
+
+BT
+DE LOPB
+REF EX-2019-86753243- -APN-DPER#PNA X ASCSGS DNI N° 24184482 DIEGO 
+JAVIER VIVA X REALIZO ACTA DE PRESENTACION FIRMA CONJUNTA 
+IF-2019-93365761-APN-DPRO#PNA X CORREO ELEVO EXPEDIENTE GDE VIA DPRO
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

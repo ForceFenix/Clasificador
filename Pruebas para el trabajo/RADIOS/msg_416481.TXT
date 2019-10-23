@@ -1,0 +1,33 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416481     Recibido: 16/10/2019 11:45:19
+GFH:MOI de GFH:160934 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:IFOR
+(TO) -> DPRO 
+(INFO) -> CS32 DEDU DPER 
+BT
+
+GFH: 160934 “R”
+FM: IFOR
+TO: DPRO
+INFO: DPER – DEDU - CS32 – LOPB
+BT.
+PARA SUBOFICIAL ENCARGADO DE CURSOS X NOTIFIQUE PRESENTACION PRIMER 
+EXÁMEN FINAL COMPLEMENTARIO X MATERIA NAVEGACION DEPORTIVA X EN MESA 
+PREVISTA MES ABRIL 2020 X CICGOF DNI 36.095.681 EUGENIA RAQUEL 
+BENITEZ X OPORTUNAMENTE INFORMARE FECHA DE EXAMEN X 1950 X 
+NOTIFICACION pdf
+BT
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

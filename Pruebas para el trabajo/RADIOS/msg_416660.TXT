@@ -1,0 +1,39 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416660     Recibido: 17/10/2019 05:30:23
+GFH:MOI de GFH:161920 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:QUEQ
+(TO) -> DEBI DIOP DPER DSUR PZMN SGEN 
+BT
+
+NR 475
+P  161920 OCT-19
+FM QUEQ
+TO DEBI DPER DIOP SGEN DSUR PZMN
+BT
+ADJUNTO ELEVO IF-2019-93629106-APN-QUEQ#PNA
+BT
+
+
+
+
+
+
+
+
+
+
+NNNN
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

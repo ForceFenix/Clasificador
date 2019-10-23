@@ -1,0 +1,30 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416449     Recibido: 16/10/2019 09:38:02
+GFH:MOI de GFH:160843 por usuario:RAA(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:SAFE
+(TO) -> SANI 
+(INFO) -> DEBI DPER PZBP 
+BT
+
+1920 X 010845 PD
+BT
+
+
+
+REF-1920: A SU QUE SE INDICA NOTIFICADO
+REF-010845: S/S DEL 13-SEP AL 14-OCT X T/A DEL 15-OCT AL 15-DIC INC. 
+X ALTA DEFINITIVA PARTIR 16-DIC X CI PEREZLINDO JORGE.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

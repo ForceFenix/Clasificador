@@ -1,0 +1,32 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416506     Recibido: 16/10/2019 13:24:58
+GFH:MOI de GFH:161322 por usuario:OPE(Oper)
+Precedencia:P (Prioridad)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:ITAT
+(TO) -> DPER 
+(INFO) -> DIOP DNOR PZPP 
+BT
+
+NRO 471 VD/VS 41
+
+BT	
+4149 SUM. ADM. ITAT Nº 54"R"/2019 X 16/OCT/19 cmm HORAS 09:30 cmm 
+CSCGSG DNI Nº 32.100.191 PABLO ALFREDO ENCINA pdf.-
+BT
+
+4149: Motivo Sumario Nº que se indica, fecha indagase personal que se
+ indica, sin medidas preventivas.
+NNNN
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

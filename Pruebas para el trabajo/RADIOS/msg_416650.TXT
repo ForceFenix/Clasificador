@@ -1,0 +1,33 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416650     Recibido: 17/10/2019 05:30:22
+GFH:MOI de GFH:161742 por usuario:OPE(Oper)
+Precedencia:P (Prioridad)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:DNOR
+(TO) -> CORR IGUA 
+(INFO) -> DAFI DGSE DIOP DPER PZAP PZPP 
+BT
+
+3381 X RAZONES DEL SERVICIO X 210800/OCT/19 X CICGNA DNI 36.463.807 
+CARLA ANDREA ROTELA X SESENTA (60) DIAS X DE IGUA A CORR (PARA 
+PRESTAR SERVICIO EXCLUSIVO EN UNIC-CORR) X 1950 X NOTIFICACION Y 
+CUMPLIMIENTO X ACUSE RECIBO pdf
+
+
+
+
+3381: Por lo que se indica X de fecha que se indica X se dispuso el 
+traslado por adscripción del personal que se indica X por el tiempo 
+que se indica X al destino que se indica.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

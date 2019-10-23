@@ -1,0 +1,31 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416532     Recibido: 16/10/2019 14:49:42
+GFH:MOI de GFH:161230 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:ELDO
+(TO) -> PZAP 
+(INFO) -> DNOR DPER 
+BT
+
+1920 X SU MOI 160730 X CAUSANTES NOTIFICADOS X ADJUNTO ELEVO ACTA DE
+NOTIFICACION.-
+
+
+
+
+
+
+1920/A SU QUE SE INDICA NOTIFICADO.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

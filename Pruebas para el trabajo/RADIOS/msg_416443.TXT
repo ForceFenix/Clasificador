@@ -1,0 +1,41 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416443     Recibido: 16/10/2019 08:41:41
+GFH:MOI de GFH:160815 por usuario:YES(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:DPRO
+(TO) -> LIBE 
+(INFO) -> DEBI DPER PZAP 
+BT
+
+FM: CS32.
+TO: LIBE.
+INFO: PZAP - DPRO- DEBI- DPER
+
+BT
+DE LOPB - OSBA
+1774 X MOI GFH 151325 FM: TNGO PARA LOPB-OSBA X 2350 X CS DNI 
+35.455.606 ANIBAL ALEJANDRO FLORES X T/A DE 11/OCT AL 16/DIC INC X 
+CAUSANTE SE DOMICILIA EN AV CARLOS CULMEY Y UNION S/N PUERTO RICO 
+MISIONES CMM (TEL 3743-553239) X 1950 X NOTIFICACION X PRESENTACION 
+EN OSBA FH 170800.pdf
+BT
+
+1774 Retransmito mensaje naval que se indica x del promotor que se 
+indica.
+
+2350 Al personal que se indica x le fue concedida licencia por  
+enfermedad a partir de la fecha que se indica x por el término que se
+ indica. Correo elevo certificado.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

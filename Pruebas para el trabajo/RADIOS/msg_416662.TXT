@@ -1,0 +1,24 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416662     Recibido: 17/10/2019 05:30:23
+GFH:MOI de GFH:161915 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:OSVE
+(TO) -> DIAM 
+(INFO) -> DAFI DCEN DIOP DPER PZBP SAFE 
+BT
+
+3393 X ATCGSG (LEG 1233) DNI NRO 28.527.605 WALTER GASTON MOREYRA X 
+ACTUAL X MOI GFH: 151012/OCT/19 FM: DCEN
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

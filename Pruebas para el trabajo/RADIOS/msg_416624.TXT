@@ -1,0 +1,27 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416624     Recibido: 16/10/2019 18:15:55
+GFH:MOI de GFH:161100 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> RAWS 
+(INFO) -> DEBI DPER PZMN 
+BT
+
+FM SANI
+
+2344 X PARTIR 15/OCT XAS DNI 27092423 ALFREDO JAVIER LEMES X CON 
+SERVICIO NORMAL PARA SU ACTUAL CUERPO Y ESCALAFON X 2340 ESTA 
+12/DIC10:00 HS X SALUD MENTAL (LIC MERMELSTEIN)X1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,28 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416645     Recibido: 16/10/2019 18:38:55
+GFH:MOI de GFH:161705 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:OSVE
+(TO) -> SANI 
+(INFO) -> DCEN DEBI DIOP DPER PZBP SAFE 
+BT
+
+2358 X FH 161545 X CICGSG DNI 31.501.542  SAMUEL PEDRO GROMEY X 
+DIAGNOSTICO CUADRO DE ESTRÉS POSTRAUMATICO (LOS SINTOMAS INICIARON 
+POSTERIOR A ROBO EN DOMICILIO) X ACONSEJANDO REPOSO LABORAL POR 1 
+SEMANA A PARTIR DEL 16/OCT  cmm FACULTATIVO DR. JUAN P. FERNANDEZ 
+ESCOBAR M.P. 6486 (ESPECIALISTA EN CLINICA MEDICA) X ADJUNTO 
+CERTIFICADO MEDICO X 2353 X SALUD MENTAL (PSIQUIATRIA)
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

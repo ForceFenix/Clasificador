@@ -1,0 +1,27 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416620     Recibido: 16/10/2019 18:03:44
+GFH:MOI de GFH:161405 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> DPRO OSSF 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+2340 X AT DNI 27.111.453 ERNESTO APOLINARIO ROJAS X ESTA 31/OCT DE 
+09.00 A 11.00 HR (OF DETALL)MUNIDO DE CERTIFICADOS MEDICOS Y ESTUDIOS
+ REALIZADO.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

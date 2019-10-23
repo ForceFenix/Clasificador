@@ -1,0 +1,27 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416478     Recibido: 16/10/2019 11:37:41
+GFH:MOI de GFH:161047 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:SANA
+(TO) -> DPER 
+(INFO) -> POSA 
+BT
+
+SOLICITO LIQUIDACION COMPENSACION CAMBIO DESTINA CS ROCIO AYELEN
+RODRIGUEZ X DNI Nº 35.992.820 X POSA-SANA X 50 KMS X HIJO TIZIANO
+GASTON RODRIGUEZ DNI Nº 52.306.311 cmm HIJA ELUNEY ALUMINE DNI Nº
+55.129.509 X NO INCLUYE VEHICULO PARTICULAR EN LA MUSANZA X
+TERRESTRE.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,34 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416459     Recibido: 16/10/2019 10:41:55
+GFH:MOI de GFH:161017 por usuario:RAF(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:IGUA
+(TO) -> DPER 
+(INFO) -> DNOR 
+BT
+
+SOLICITO LIQUIDACION COMPENSACION CAMBIO DESTINO CS  TATIANA ANDREA 
+AGUIRRE X DNI 35.838.467 X PMAD-IGUA X 1336 KMS X  HIJO AGUIRRE 
+MACIEL BASTIAN LAUTARO X NO INCLUYE VEHICULO PARTICULAR X ACUSE 
+RECIBO.
+BT
+
+
+
+
+
+
+RFTE. COMPENSACION CAMBIO DE DESTINO PERSONAL CIVF.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

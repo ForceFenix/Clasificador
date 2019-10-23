@@ -1,0 +1,28 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416535     Recibido: 16/10/2019 15:12:20
+GFH:MOI de GFH:160804 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:GCMA
+(TO) -> DPER 
+(INFO) -> ALVE DIOP 
+BT
+
+FM: SBGC
+
+BT
+3388 X 161132/OCT/19 X CSCGNA DNI 38.879.634 JUAN DAVID ECHEVARRIA X 
+SBGC X POR GFH: 110853/OCT/19 FM: DPER.-
+BT
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

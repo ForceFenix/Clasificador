@@ -1,0 +1,32 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416525     Recibido: 16/10/2019 14:09:58
+GFH:MOI de GFH:161252 por usuario:FJR(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:FORM
+(TO) -> SANI 
+(INFO) -> BERM DEBI DIOP DMAT DNOR DPER INAD PZPP 
+BT
+
+NRO 646
+
+BT
+
+3705 X 151315 pdf
+BT
+
+
+NNNN
+RFTE NOTIFICACION T/A ASCGSG DNI 27.002.006 JORGE ALBERTO CESPEDES
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,31 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416484     Recibido: 16/10/2019 11:50:26
+GFH:MOI de GFH:161106 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:CORR
+(TO) -> OSVE 
+(INFO) -> DCEN DIOP DPER PPAT PZBP PZPP SAFE 
+BT
+
+Sección Personal	
+
+BT
+3397 X MOI 151305 X ESTA Y DEPENDENCIA SUBORDINADA PREFECTURA 
+EMPEDRADO (NIVEL V) pdf.
+BT
+3397: SU QUE SE INDICA X  NO EXISTEN INTERESADOS.
+REF. NO  EXISTEN INTERESADOS EN REALIZAR PERMUTA CON EL CI. PEDRO A. 
+LEZCANO.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

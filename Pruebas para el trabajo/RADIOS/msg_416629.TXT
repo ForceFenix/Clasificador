@@ -1,0 +1,29 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416629     Recibido: 16/10/2019 18:21:01
+GFH:MOI de GFH:161115 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:TNGO
+(TO) -> AGGU 
+(INFO) -> DEBI DPER 
+BT
+
+FM SANI
+
+REFERENTE SU MOI GFH: 150701
+2350 X CS DNI 34813894 MAXIMILIANO NACUSSI X S/S DEL 10/OCT AL 21/OCT
+ INC X APTO FAZ ADMINISTRATIVA X NO APTO FAZ POLICIAL X 2340 
+ESTA17/OCT08:00 HSX SALUD MENTAL (LIC DOLAGARATZ)cmm 21/OCT 08:00 
+JORM SALUD MENTALX 1950 X NOTIFICACION.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

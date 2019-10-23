@@ -1,0 +1,28 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416517     Recibido: 16/10/2019 13:42:45
+GFH:MOI de GFH:161010 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:PZMS
+(TO) -> DPER 
+BT
+
+R 161010 OCT 19
+FM:  PZMS
+TO:  DPER
+BT
+4149 X SUM. ADM. Nº 03 ”R”/19 X 161000/OCT/19 “CICGCA DNI. 34.938.756
+ CARINA VICTORIA SALVA (USHU) AV/ VIOLENCIA FAMILIAR” X SIN NOVEDAD.-
+BT
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

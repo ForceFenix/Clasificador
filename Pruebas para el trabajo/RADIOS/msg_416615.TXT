@@ -1,0 +1,22 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416615     Recibido: 16/10/2019 17:46:16
+GFH:MOI de GFH:161155 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:OSVE
+(TO) -> DPER 
+BT
+
+ADJUNTO IF-2019-93412647-APN-SAFE#PNA
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

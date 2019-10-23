@@ -1,0 +1,24 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416495     Recibido: 16/10/2019 12:12:41
+GFH:MOI de GFH:161112 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:ALPO
+(TO) -> DPER SANI 
+(INFO) -> DNOR PZAU 
+BT
+
+SUM.O.I. G.F.H.010953/OCTFM:DPERXLICENCIAS MEDICAS PERSONAL 
+SUBALTERNO:
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,29 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416470     Recibido: 16/10/2019 11:03:20
+GFH:MOI de GFH:160812 por usuario:YES(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:DPRO
+(TO) -> DPER 
+BT
+
+FM: DPRO.
+TO: CS32-CS52.
+INF: DPER.-
+
+PARA LOPB-OSBA
+1774 X GFH 110815/OCT/2019 FM: DPER  X PARTES PERTINENTES X 2917 
+NOTAL X ASCCSG DNI 25.638.898 DAVID ESTEBAN MORALES X 01/OCT X 1955 X
+ ACTA NOTIFICACIÓN.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

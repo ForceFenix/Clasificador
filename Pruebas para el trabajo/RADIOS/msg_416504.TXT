@@ -1,0 +1,30 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416504     Recibido: 16/10/2019 13:23:23
+GFH:MOI de GFH:161128 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:CORR
+(TO) -> PZPP 
+(INFO) -> AREX BARR DMAT DNOR DPER 
+BT
+
+SALA DE  ARMAS
+
+BT
+MOTIVO SUMARIO ADMINISTRATIVO RESERVADO Nº 121/19 -CORR, CARATULADO 
+“CICGSG (LEG- 15370) D.N.I. Nº 34.425.354 PABLO HORACIO MONZON GAITAN
+ AV/CONDUCTA” cmm SOLICITO PERITO EFECTOS REALIZAR INSPECCION PISTOLA
+ SEMIAUTOMATICA CALIBRE 9 MM MARCA “PIETRO BERETTA” cmm MODELO FS 92 
+cmm SERIE N° 05-P24679Z . pdf.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

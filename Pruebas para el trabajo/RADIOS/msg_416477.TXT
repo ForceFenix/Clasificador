@@ -1,0 +1,35 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416477     Recibido: 16/10/2019 11:33:06
+GFH:MOI de GFH:160908 por usuario:OPE(Oper)
+Precedencia:P (Prioridad)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:ESUP
+(TO) -> DPER 
+(INFO) -> DCEN DIOP DJPM PZDE 
+BT
+
+FM: OLIV
+
+TO: DPER
+
+INFO: DCEN - DIOP - DJPM - PZDE
+
+BT
+ACORDE NO-2019-92332757-APN-DPER#PNA CLN
+FH 160900 X INICIO INFORMACION N° 01 R/19 -OLIV- X CARATULADA X 
+“CICGNA DNI 34.056.887 DIEGO EZEQUIEL GUIÑEZ AV/ SU EMBARGO DE 
+HABERES” X DESIGNADO OFICIAL PREVENTOR OX MANUEL ALBERTO VELAZQUEZ 
+pdf.-
+BT
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

@@ -1,0 +1,29 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416483     Recibido: 16/10/2019 11:48:23
+GFH:MOI de GFH:161026 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:CORR
+(TO) -> DPRO 
+(INFO) -> DPER PZPP 
+BT
+
+REFERENTE SU 150950 X ACORDE LLAMADO TELEFONICO AL ABONADO Nº 
+011-1558213811 cmm CAUSANTE FIJO DOMICILIO EN RAULIES Nº 1962 
+-C.A.B.A.- pdf.
+BT.
+
+
+RFTE: Licencia Extraordinaria del AS. DAVID ESTEBAN MORALES (DPRO).
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

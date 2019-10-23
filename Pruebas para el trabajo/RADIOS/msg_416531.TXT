@@ -1,0 +1,33 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416531     Recibido: 16/10/2019 14:46:38
+GFH:MOI de GFH:161422 por usuario:FJR(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:FORM
+(TO) -> DEBI DNOR DPER PZPP SANI 
+BT
+
+NRO 650
+
+BT
+
+CONTIENE IF-2019-93486442-APN-FORM#PNA X ANEXADO pdf
+BT
+
+
+
+
+NNNNNN
+REFTE I/ESTADO DE SALUD HIJO CI MENDIOLA PABLO
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

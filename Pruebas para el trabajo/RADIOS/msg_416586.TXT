@@ -1,0 +1,37 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416586     Recibido: 16/10/2019 16:30:39
+GFH:MOI de GFH:161009 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:TNGO
+(TO) -> DGHD 
+(INFO) -> DPER 
+BT
+
+FM: SERS
+TO: DGHD
+INFO: DPER
+
+BT
+
+3705 X MOI GFH: 150908 X MEDIANTE ACTA 
+IF-2019-93363549-APN-SERS#PNA.Pdf
+
+BT
+
+REF: 3705 X SU QUE SE INDICA CAUSANTE NOTIFICADO.
+
+MOI 150908 NOTIFICACIÓN CICXSA DNI 33572133 FERNANDA MARIA
+SOLEDAD SOTELO.
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

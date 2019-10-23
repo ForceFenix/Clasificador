@@ -1,0 +1,39 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416527     Recibido: 16/10/2019 14:13:32
+GFH:MOI de GFH:161356 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:PNES
+(TO) -> DAFI DPER 
+(INFO) -> PZMN 
+BT
+
+PREFECTURA NAVAL ARGENTINA
+Autoridad Marítima
+NRO 270
+
+BT.
+MOTIVO SUM. ADM. Nº 22“R”/19-PNES X ACORDE ART. 050.712 INC C) 
+REGLAMENTACION DEL PERSONAL X FECHA 14/10/19
+LEVANTAMIENTO PREVENTIVO CICGNAIF (241) DNI Nº 34.331.498 EMANUEL 
+ALFREDO CANTEROS CMM SOLICITO REINTEGRO DEL
+CAUSANTE AL SERVICIO X ADJUNTO DISPOSICION DI-2019-81-APN-PNES#PNA.
+BT.
+
+
+
+
+
+NNNN
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

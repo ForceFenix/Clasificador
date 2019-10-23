@@ -1,0 +1,34 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416674     Recibido: 17/10/2019 05:30:24
+GFH:MOI de GFH:162102 por usuario:AAD(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Sin Leer
+FM:FORM
+(TO) -> DPER 
+(INFO) -> DIOP DNOR ISCE PZPP 
+BT
+
+Nº 672
+BT
+3705 X GFH 161804 pdf
+BT
+
+
+
+
+
+
+3705  :  Su que se indica causante notificado.-
+REF: NOTIFICACION TRALADO A ISCE - AP CARLOS ANTONIO MORENO.-
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------

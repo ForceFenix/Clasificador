@@ -1,0 +1,23 @@
+Mensaje Oficial Interno(SIME) de Entrada----------------------------------------
+Serie Nro:416614     Recibido: 16/10/2019 17:44:43
+GFH:MOI de GFH:161145 por usuario:OPE(Oper)
+Precedencia:R (Rutina)          Clasificación de Seguridad:Público
+Estado:Leído
+FM:OSVE
+(TO) -> DPER 
+(INFO) -> DCEN DEBI PZBP SAFE SANI 
+BT
+
+ADJUNTO IF-2019-93400418-APN-SAFE#PNA
+
+BT
+
+
+
+
+
+
+
+
+NNNN
+------------------------------------------------------------
