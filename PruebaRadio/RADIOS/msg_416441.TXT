@@ -4,7 +4,10 @@ GFH:MOI de GFH:160801 por usuario:OPE(Oper)
 Precedencia:R (Rutina)          Clasificación de Seguridad:Público
 Estado:Leído
 FM:DCEN
-(TO) -> DPER 
+(TO) -> DPRO
+(INFO)
+inf
+
 BT
 
 SOLICITO AUTORIZACION X VIAJE AL EXTERIOR X CSCGSG (11282) -DNI N° 
