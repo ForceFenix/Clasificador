@@ -16,7 +16,7 @@ os.chdir (r'C:/Users/SodaS/OneDrive/Escritorio/Pruebas para el trabajo')
 for i in ruta:
     os.chdir (r'C:/Users/SodaS\OneDrive/Escritorio/Pruebas para el trabajo/'+ i)     #me situo
     os.mkdir(nombre)                                                                 #creo
-    archivos = os.listdir()                                                          #convierto
+    archivos = os.listdir()                                                          #convierto en lista
     a_mover = diferenciador (archivos)                                               #analizo
     for a in a_mover:                                                                #muevo
         shutil.move( a , nombre)
